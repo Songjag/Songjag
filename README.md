@@ -165,14 +165,14 @@ me.say_hi()
 <br>
 <sub><b>Honkai Impact 3rd</b></sub>
 <br>
-<img height="120" src="https://tenor.com/vi/view/elysia-honkai-honkai-impact-mantis-fire-moth-gif-25696870" />
+<img height="120" src="https://static.wikia.nocookie.net/honkaiimpact3_gamepedia_en/images/9/96/Herrscher_of_Human%2C_Elysia_%28Enemy%29_%28Icon%29.png/revision/latest?cb=20221211154148" />
 </td>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/Gaming-🎮-9146FF?style=for-the-badge&logoColor=white" />
 <br>
 <sub><b>Minecraft</b></sub>
 <br>
-<img height="120" src="https://tenor.com/vi/view/i-was-a-jit-timeless-totem-of-undying-minecraft-totem-dancing-gif-4962838341895713505" />
+<img height="120" src="https://upload.wikimedia.org/wikipedia/en/b/b6/Minecraft_2024_cover_art.png" />
 
 </td>
 <td align="center" width="33%">
