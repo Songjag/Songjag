@@ -75,19 +75,19 @@ me.say_hi()
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-Beginner-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/Proficiency-10%25-FFD700?style=for-the-badge" />
 </td>
 
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/C%2FC++-Intermediate-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2FC++-Beginner-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/Proficiency-5%25-00599C?style=for-the-badge" />
 </td>
 
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-Beginner-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/Proficiency-35%25-4479A1?style=for-the-badge" />
 </td>
