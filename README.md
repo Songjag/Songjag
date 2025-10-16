@@ -119,7 +119,7 @@ me.say_hi()
 <td width="50%">
 
 ### 🔧 **Tools & Utilities**
-- 🖥️ GitHub Desktop Integration
+- 🖥️ GitHub Desktop 
 - 🔨 Custom CLI Tools
 - 🌐 Download Video
 - 📁 Database Manage
