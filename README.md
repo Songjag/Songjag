@@ -7,7 +7,7 @@
 
 ### 『 *A sales pitch? Or fate, knocking at your door?* 』
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&lines=Elysia+Lover%F0%9F%92%BB;Python+Student+%F0%9F%90%8D;Discord+Bot+Developer+%F0%9F%A4%96;Always+Learning+%F0%9F%93%9A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&lines=Elysia+Lover%F0%9F%92%96;Python+Student+%F0%9F%90%8D;Discord+Bot+Developer+%F0%9F%A4%96;Always+Learning+%F0%9F%93%9A)](https://git.io/typing-svg)
 
 </div>
 
