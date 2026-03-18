@@ -18,7 +18,7 @@ I enjoy building **Python-based applications**, especially Discord bots, databas
 ```python
 class Songjag:
     def __init__(self):
-        self.name = "Songjag"
+        self.name = "Songjag/Nguyen Duc Nguyen"
         self.role = "Student Developer"
         self.language = ["Python", "C/C++", "SQL"]
         self.interests = ["Sql", "Bots", "Games"]
