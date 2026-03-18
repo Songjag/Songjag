@@ -18,7 +18,7 @@ I enjoy building **Python-based applications**, especially Discord bots, databas
 ```python
 class Songjag:
     def __init__(self):
-        self.name = "Songjag"
+        self.name = "Songjag/Nguyen Duc Nguyen"
         self.role = "Student Developer"
         self.language = ["Python", "C/C++", "SQL"]
         self.interests = ["Sql", "Bots", "Games"]
@@ -39,13 +39,9 @@ me.say_hi()
 
 ---
 
-##  Tech Stack
+## 💻 Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,git,github,linux,vscode,discord&perline=5" />
-
-</div>
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -78,28 +74,15 @@ me.say_hi()
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<br>
+![](https://github-readme-stats.shion.dev/api?username=Songjag&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Songjag&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Songjag&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
+---
 
-## 📈 **GITHUB ANALYTICS** 📈
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Songjag&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&border_radius=10" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Songjag&theme=tokyonight&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&border_radius=10" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Songjag&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&border_radius=10&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Songjag&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF&area=true&radius=10" />
-
-</div>
-
-<br>
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Songjag&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+[![](https://komarev.com/ghpvc/?username=Songjag&icon=1&color=6)](https://visitcount.itsvg.in)
 
 ---
 
